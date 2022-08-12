@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "53718994_bcaac2ce",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000065
+      },
+      "writtenOn": "2022-08-12T08:25:23Z",
+      "side": 1,
+      "message": "The chain fixes broke compilation on my bare-metal server",
+      "revId": "a76c0a1c0ff6279dec084e0c38a0ed2a47e004c5",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
